@@ -50,5 +50,6 @@
     <orderEntry type="library" name="Maven: io.opentracing:opentracing-noop:0.31.0" level="project" />
     <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.13.3" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.41" level="project" />
   </component>
 </module>
